@@ -6,6 +6,6 @@ In this Data Blog project from Winter 2023, I created and interpreted data visua
 
 My detailed interpretation of these findings can be found in a section of an article published on Medium (https://ucladatares.medium.com/the-rapid-rise-in-mass-shootings-trends-and-analysis-1c3714f47c67).
 
-## Reference
+## Reference:
 
 Stanford MSA data: https://www.kaggle.com/datasets/carlosparadis/stanford-msa?datasetId=2856&select=mass_shooting_events_stanford_msa_release_06142016.csv
